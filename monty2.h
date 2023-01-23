@@ -1,5 +1,5 @@
 #ifndef __MONTY_H__
-#include "monty.h"
+#define "monty.h"
 
 /**
  * struct stack_s - doubly linked list representation of a stack (or queue)
